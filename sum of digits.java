@@ -14,3 +14,7 @@ public class Main
 		System.out.println(sum);
 	}
 }
+
+output:
+114
+6
