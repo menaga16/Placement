@@ -51,3 +51,15 @@ public class Main {
         }
     }
 }
+
+output:
+
+Enter the size of array A:
+5
+Enter the elements for array A:
+1 2 1 5 3
+Enter the size of array B:
+4
+Enter the elements for array B:
+5 8 7 9
+6274
