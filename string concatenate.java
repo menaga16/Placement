@@ -19,3 +19,10 @@ public class Main
 	    
 	}
 }
+
+
+output:
+
+enter the first String:bat
+enter the second String:tree
+baree
